@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "News-Aggregation",
+  "description": "A basic example extension with only required keys",
+  "icons": { 
+    "128": "icon.jpg", 
+    "64": "icon.jpg", 
+    "32": "icon.jpg",
+    "16": "icon.jpg"
+  },
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
