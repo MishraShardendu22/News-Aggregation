@@ -15,7 +15,8 @@ const getNews = async () => {
     const data = res.data.articles ? res.data.articles.filter(item => item.author != null) : [];
     return data;
   } catch (error) {
-    console.error("Error fetching news:", error);
+    // Log more specific error information
+    console.error("Error fetching news:", error.response ? error.response.data : error.message);
     return [];
   }
 };
