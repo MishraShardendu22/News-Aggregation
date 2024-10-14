@@ -1,4 +1,5 @@
-# Chrome News Aggregation Extension
+# [Chrome News Aggregation Extension](https://youtu.be/7s0jAgrxq-o?si=AshDMQRNuZyMkpwA)
+### Click on the link to watch a youtube video on how to use the Browser-Extension 
 
 Stay updated with the latest headlines effortlessly with our Chrome extension for top news aggregation.
 
