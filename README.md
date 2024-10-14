@@ -24,8 +24,6 @@ This project is built using the following technologies:
 - **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Icon" width="20" />
 - **Vite** <img src="https://vitejs.dev/logo.svg" alt="Vite Icon" width="20" />
 - **React** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Icon" width="20" />
-- **CSS** <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS Icon" width="20" />
-- **HTML** <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/HTML5_logo_and_wordmark.svg" alt="HTML Icon" width="20" />
 
 ## Installation
 
