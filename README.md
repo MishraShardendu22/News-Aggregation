@@ -1,6 +1,6 @@
 ---
 
-<img src="HowTheExtensionWorks.mp4" alt="Animated GIF" width="300"/>
+<img src="HowTheExtensionWorks.mp4" alt="Tutorial Video"/>
 
 ---
 # [Chrome News Aggregation Extension](https://youtu.be/7s0jAgrxq-o?si=AshDMQRNuZyMkpwA)
