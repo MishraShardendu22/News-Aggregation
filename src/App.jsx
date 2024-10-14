@@ -5,7 +5,9 @@ import './index.css';
 import PropTypes from 'prop-types';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
-const url = "https://newsapi.org/v2/top-headlines?country=us&apiKey=cc091c3cb3c1472bac20b2750fe176b9";
+// Accessing the API key from the environment variable
+const apiKey = import.meta.env.VITE_API_KEY;
+const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${apiKey}`;
 
 const getNews = async () => {
   try {
